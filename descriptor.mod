@@ -1,3 +1,6 @@
+dependencies={
+	"Cold War Iron Curtain Dev Build"
+}
 version="0.0.1"
 tags={
 	"Alternative History"
