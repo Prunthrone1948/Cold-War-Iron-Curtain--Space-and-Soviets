@@ -13,4 +13,4 @@ tags={
 	"Military"
 }
 name="Cold War Iron Curtain: Space & Soviets"
-supported_version="1.12.13"
+supported_version="1.12.*"
